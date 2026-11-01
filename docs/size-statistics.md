@@ -8,8 +8,8 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `157.7 TiB`
-- Best size: `119.8 TiB`
+- Total size: `157.6 TiB`
+- Best size: `119.7 TiB`
 - Alt size: `38.0 TiB`
 - Realistic size: `123.3 TiB`
 
@@ -38,7 +38,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 16   | A&C              | 1.4 TiB    | 1.4 TiB (98.14%)    | 5 (~285.4 GiB each)   |
 | 17   | LaCroiX          | 1.4 TiB    | 1.4 TiB (100.00%)   | 19 (~74.3 GiB each)   |
 | 18   | JySzE            | 1.4 TiB    | 1.4 TiB (100.00%)   | 6 (~232.1 GiB each)   |
-| 19   | YURASUKA         | 1.3 TiB    | 594.3 GiB (44.52%)  | 107 (~12.5 GiB each)  |
+| 19   | YURASUKA         | 1.3 TiB    | 594.3 GiB (44.03%)  | 108 (~12.5 GiB each)  |
 | 20   | nekotan          | 1.3 TiB    | 1.0 TiB (80.76%)    | 39 (~34.1 GiB each)   |
 | 21   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~68.9 GiB each)   |
 | 22   | SubsPlease       | 1.2 TiB    | 144.0 GiB (11.96%)  | 69 (~17.5 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | CTR              | 589.2 GiB  | 138.6 GiB (23.52%)  | 26 (~22.7 GiB each)   |
 | 48   | SEV              | 585.9 GiB  | 0 B (0.00%)         | 13 (~45.1 GiB each)   |
 | 49   | Pizza            | 570.2 GiB  | 418.0 GiB (73.31%)  | 10 (~57.0 GiB each)   |
-| 50   | Others           | 50.4 TiB   | 27.8 TiB (55.09%)   | 2131 (~24.2 GiB each) |
+| 50   | Others           | 50.3 TiB   | 27.7 TiB (55.06%)   | 2129 (~24.2 GiB each) |

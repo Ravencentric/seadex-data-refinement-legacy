@@ -19,8 +19,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 🥉   | sam                    | 137   |
 | 4    | CRUCiBLE               | 128   |
 | 5    | NAN0                   | 121   |
-| 6    | hchcsen                | 108   |
-| 7    | Moxie / YURASUKA       | 107   |
+| 6    | YURASUKA / hchcsen     | 108   |
+| 7    | Moxie                  | 107   |
 | 8    | MTBB                   | 106   |
 | 9    | SubsPlease             | 69    |
 | 10   | YURI                   | 68    |
@@ -105,7 +105,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | Rank | Group                                          | Count |
 | :----| :----------------------------------------------| :-----|
 | 🥇   | Headpatter                                     | 121   |
-| 🥈   | YURASUKA                                       | 65    |
+| 🥈   | YURASUKA                                       | 66    |
 | 🥉   | SubsPlease                                     | 60    |
 | 4    | Erai-raws                                      | 55    |
 | 5    | KH                                             | 48    |
@@ -124,8 +124,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 18   | Pog42 / SCY                                    | 16    |
 | 19   | nekotan                                        | 15    |
 | 20   | HorribleSubs                                   | 14    |
-| 21   | CBT / Datte13 / Lulu / SEV / WBDP              | 13    |
-| 22   | UDF / o7                                       | 12    |
+| 21   | CBT / Lulu / SEV / WBDP                        | 13    |
+| 22   | Datte13 / UDF / o7                             | 12    |
 | 23   | FFF / Mysteria / Netaro / Pookie / TROLLORANGE | 11    |
 | 24   | CyC / NH / Tsundere                            | 10    |
 | 25   | Yoghurt / sam                                  | 9     |
