@@ -28,17 +28,16 @@
 | 25  | The Orbital Children                                                             | 2022 | 29 Oct 2026 | [SeaDex](https://seadex.moe/101705/), [AniList](https://anilist.co/anime/101705) |
 | 26  | RPG Real Estate                                                                  | 2022 | 28 Oct 2026 | [SeaDex](https://seadex.moe/130319/), [AniList](https://anilist.co/anime/130319) |
 | 27  | Drifting Dragons                                                                 | 2020 | 04 Oct 2026 | [SeaDex](https://seadex.moe/108450/), [AniList](https://anilist.co/anime/108450) |
-| 28  | Majestic Prince                                                                  | 2013 | 10 Jul 2026 | [SeaDex](https://seadex.moe/15863/), [AniList](https://anilist.co/anime/15863)   |
-| 29  | Shagahai ReLIFE Kenkyuujo Support-ka                                             | 2018 | 19 Apr 2026 | [SeaDex](https://seadex.moe/108939/), [AniList](https://anilist.co/anime/108939) |
-| 30  | Chu-Bra!: Panty Appreciation Society                                             | 2010 | 21 Oct 2026 | [SeaDex](https://seadex.moe/6645/), [AniList](https://anilist.co/anime/6645)     |
-| 31  | Fantastic Children                                                               | 2004 | 26 Sep 2026 | [SeaDex](https://seadex.moe/455/), [AniList](https://anilist.co/anime/455)       |
-| 32  | Phi-Brain ~ Puzzle of God: The Orpheus Order                                     | 2012 | 27 Oct 2026 | [SeaDex](https://seadex.moe/12753/), [AniList](https://anilist.co/anime/12753)   |
-| 33  | Black Jack (TV)                                                                  | 2004 | 13 Oct 2026 | [SeaDex](https://seadex.moe/2213/), [AniList](https://anilist.co/anime/2213)     |
-| 34  | The Royal Tutor Movie                                                            | 2019 | 15 Sep 2026 | [SeaDex](https://seadex.moe/104286/), [AniList](https://anilist.co/anime/104286) |
-| 35  | HIGHSPEED Étoile                                                                 | 2024 | 26 Oct 2026 | [SeaDex](https://seadex.moe/152302/), [AniList](https://anilist.co/anime/152302) |
-| 36  | Phi-Brain ~ Puzzle of God Season 3                                               | 2013 | 27 Oct 2026 | [SeaDex](https://seadex.moe/15651/), [AniList](https://anilist.co/anime/15651)   |
-| 37  | Mazinger Z                                                                       | 1972 | 24 Oct 2026 | [SeaDex](https://seadex.moe/2253/), [AniList](https://anilist.co/anime/2253)     |
-| 38  | MEGANEBU!                                                                        | 2013 | 05 Aug 2026 | [SeaDex](https://seadex.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
-| 39  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 29 Dec 2023 | [SeaDex](https://seadex.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 40  | Combattler V                                                                     | 1976 | 16 Aug 2026 | [SeaDex](https://seadex.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
-| 41  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://seadex.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
+| 28  | Shagahai ReLIFE Kenkyuujo Support-ka                                             | 2018 | 19 Apr 2026 | [SeaDex](https://seadex.moe/108939/), [AniList](https://anilist.co/anime/108939) |
+| 29  | Chu-Bra!: Panty Appreciation Society                                             | 2010 | 21 Oct 2026 | [SeaDex](https://seadex.moe/6645/), [AniList](https://anilist.co/anime/6645)     |
+| 30  | Fantastic Children                                                               | 2004 | 26 Sep 2026 | [SeaDex](https://seadex.moe/455/), [AniList](https://anilist.co/anime/455)       |
+| 31  | Phi-Brain ~ Puzzle of God: The Orpheus Order                                     | 2012 | 27 Oct 2026 | [SeaDex](https://seadex.moe/12753/), [AniList](https://anilist.co/anime/12753)   |
+| 32  | Black Jack (TV)                                                                  | 2004 | 13 Oct 2026 | [SeaDex](https://seadex.moe/2213/), [AniList](https://anilist.co/anime/2213)     |
+| 33  | The Royal Tutor Movie                                                            | 2019 | 15 Sep 2026 | [SeaDex](https://seadex.moe/104286/), [AniList](https://anilist.co/anime/104286) |
+| 34  | HIGHSPEED Étoile                                                                 | 2024 | 26 Oct 2026 | [SeaDex](https://seadex.moe/152302/), [AniList](https://anilist.co/anime/152302) |
+| 35  | Phi-Brain ~ Puzzle of God Season 3                                               | 2013 | 27 Oct 2026 | [SeaDex](https://seadex.moe/15651/), [AniList](https://anilist.co/anime/15651)   |
+| 36  | Mazinger Z                                                                       | 1972 | 24 Oct 2026 | [SeaDex](https://seadex.moe/2253/), [AniList](https://anilist.co/anime/2253)     |
+| 37  | MEGANEBU!                                                                        | 2013 | 05 Aug 2026 | [SeaDex](https://seadex.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
+| 38  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 29 Dec 2023 | [SeaDex](https://seadex.moe/151898/), [AniList](https://anilist.co/anime/151898) |
+| 39  | Combattler V                                                                     | 1976 | 16 Aug 2026 | [SeaDex](https://seadex.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
+| 40  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://seadex.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
