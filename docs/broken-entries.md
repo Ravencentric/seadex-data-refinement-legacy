@@ -106,8 +106,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 99  | The Qwaser of Stigmata II                                                              | 2011 | 26 Feb 2026 | [SeaDex](https://seadex.moe/10073/), [AniList](https://anilist.co/anime/10073)   |
 | 100 | HYPNOSISMIC -Division Rap Battle- Rhyme Anima                                          | 2020 | 08 Sep 2026 | [SeaDex](https://seadex.moe/113652/), [AniList](https://anilist.co/anime/113652) |
 | 101 | Chaos Dragon                                                                           | 2015 | 07 Jun 2026 | [SeaDex](https://seadex.moe/21055/), [AniList](https://anilist.co/anime/21055)   |
-| 102 | The Family Circumstances of the Irregular Witch                                        | 2023 | 01 Nov 2026 | [SeaDex](https://seadex.moe/154454/), [AniList](https://anilist.co/anime/154454) |
-| 103 | Wash It All Away                                                                       | 2026 | 01 Aug 2026 | [SeaDex](https://seadex.moe/194028/), [AniList](https://anilist.co/anime/194028) |
+| 102 | Wash It All Away                                                                       | 2026 | 01 Aug 2026 | [SeaDex](https://seadex.moe/194028/), [AniList](https://anilist.co/anime/194028) |
+| 103 | The Family Circumstances of the Irregular Witch                                        | 2023 | 01 Nov 2026 | [SeaDex](https://seadex.moe/154454/), [AniList](https://anilist.co/anime/154454) |
 | 104 | Letter Bee                                                                             | 2009 | 22 Jun 2026 | [SeaDex](https://seadex.moe/6444/), [AniList](https://anilist.co/anime/6444)     |
 | 105 | Cerberus                                                                               | 2016 | 04 Jul 2026 | [SeaDex](https://seadex.moe/21608/), [AniList](https://anilist.co/anime/21608)   |
 | 106 | Dungeon People                                                                         | 2024 | 30 Sep 2026 | [SeaDex](https://seadex.moe/168345/), [AniList](https://anilist.co/anime/168345) |
