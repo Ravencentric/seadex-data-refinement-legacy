@@ -110,11 +110,11 @@
 | 107 | Expelled From Paradise                                                               | 2014 | 17 Jul 2025 | [SeaDex](https://seadex.moe/13391/), [AniList](https://anilist.co/anime/13391)   |
 | 108 | Slow Start                                                                           | 2018 | 03 Aug 2025 | [SeaDex](https://seadex.moe/98693/), [AniList](https://anilist.co/anime/98693)   |
 | 109 | High Speed! -Free! Starting Days-                                                    | 2015 | 24 Nov 2023 | [SeaDex](https://seadex.moe/21158/), [AniList](https://anilist.co/anime/21158)   |
-| 110 | The Rolling Girls                                                                    | 2015 | 14 Nov 2023 | [SeaDex](https://seadex.moe/20815/), [AniList](https://anilist.co/anime/20815)   |
-| 111 | Dead Leaves                                                                          | 2004 | 02 Aug 2025 | [SeaDex](https://seadex.moe/974/), [AniList](https://anilist.co/anime/974)       |
+| 110 | Dead Leaves                                                                          | 2004 | 02 Aug 2025 | [SeaDex](https://seadex.moe/974/), [AniList](https://anilist.co/anime/974)       |
+| 111 | The Rolling Girls                                                                    | 2015 | 14 Nov 2023 | [SeaDex](https://seadex.moe/20815/), [AniList](https://anilist.co/anime/20815)   |
 | 112 | House of Five Leaves                                                                 | 2010 | 10 Jul 2024 | [SeaDex](https://seadex.moe/7588/), [AniList](https://anilist.co/anime/7588)     |
-| 113 | Senyuu                                                                               | 2013 | 15 Nov 2023 | [SeaDex](https://seadex.moe/15751/), [AniList](https://anilist.co/anime/15751)   |
-| 114 | Hand Shakers                                                                         | 2017 | 07 Jul 2024 | [SeaDex](https://seadex.moe/21731/), [AniList](https://anilist.co/anime/21731)   |
+| 113 | Hand Shakers                                                                         | 2017 | 07 Jul 2024 | [SeaDex](https://seadex.moe/21731/), [AniList](https://anilist.co/anime/21731)   |
+| 114 | Senyuu                                                                               | 2013 | 15 Nov 2023 | [SeaDex](https://seadex.moe/15751/), [AniList](https://anilist.co/anime/15751)   |
 | 115 | Bartender                                                                            | 2006 | 11 Jun 2024 | [SeaDex](https://seadex.moe/1589/), [AniList](https://anilist.co/anime/1589)     |
 | 116 | Free! -Take Your Marks-                                                              | 2017 | 08 Jun 2025 | [SeaDex](https://seadex.moe/98497/), [AniList](https://anilist.co/anime/98497)   |
 | 117 | Rumbling Hearts                                                                      | 2003 | 07 Jun 2025 | [SeaDex](https://seadex.moe/147/), [AniList](https://anilist.co/anime/147)       |
@@ -170,8 +170,8 @@
 | 167 | Bungaku Shoujo                                                                       | 2010 | 18 Jun 2024 | [SeaDex](https://seadex.moe/6408/), [AniList](https://anilist.co/anime/6408)     |
 | 168 | Spice and Wolf II Specials                                                           | 2009 | 03 Aug 2025 | [SeaDex](https://seadex.moe/6884/), [AniList](https://anilist.co/anime/6884)     |
 | 169 | Arifureta Shokugyou de Sekai Saikyou Prologue                                        | 2020 | 07 May 2024 | [SeaDex](https://seadex.moe/145560/), [AniList](https://anilist.co/anime/145560) |
-| 170 | Sasaki and Miyano: A Tiny Episode From Before He Realized His Feelings               | 2022 | 10 Apr 2025 | [SeaDex](https://seadex.moe/143082/), [AniList](https://anilist.co/anime/143082) |
-| 171 | Bayonetta: Bloody Fate                                                               | 2013 | 19 Aug 2024 | [SeaDex](https://seadex.moe/20442/), [AniList](https://anilist.co/anime/20442)   |
+| 170 | Bayonetta: Bloody Fate                                                               | 2013 | 19 Aug 2024 | [SeaDex](https://seadex.moe/20442/), [AniList](https://anilist.co/anime/20442)   |
+| 171 | Sasaki and Miyano: A Tiny Episode From Before He Realized His Feelings               | 2022 | 10 Apr 2025 | [SeaDex](https://seadex.moe/143082/), [AniList](https://anilist.co/anime/143082) |
 | 172 | Re-Kan!                                                                              | 2015 | 18 Nov 2023 | [SeaDex](https://seadex.moe/20814/), [AniList](https://anilist.co/anime/20814)   |
 | 173 | Kabaneri of the Iron Fortress: Light That Gathers                                    | 2016 | 09 Dec 2023 | [SeaDex](https://seadex.moe/98662/), [AniList](https://anilist.co/anime/98662)   |
 | 174 | Hells                                                                                | 2008 | 22 Nov 2023 | [SeaDex](https://seadex.moe/4983/), [AniList](https://anilist.co/anime/4983)     |

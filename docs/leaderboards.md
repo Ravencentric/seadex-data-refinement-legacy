@@ -14,12 +14,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                  | Count |
 | :----| :----------------------| :-----|
-| 🥇   | Headpatter             | 218   |
+| 🥇   | Headpatter             | 219   |
 | 🥈   | -ZR-                   | 174   |
 | 🥉   | sam                    | 137   |
 | 4    | CRUCiBLE               | 128   |
 | 5    | NAN0                   | 119   |
-| 6    | hchcsen                | 114   |
+| 6    | hchcsen                | 118   |
 | 7    | YURASUKA               | 109   |
 | 8    | Moxie                  | 107   |
 | 9    | MTBB                   | 106   |
@@ -61,14 +61,14 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 15   | Arid / BlackRose / YURI                         | 13    |
 | 16   | FraMeSToR / Mehul / Vodes                       | 12    |
 | 17   | LostYears / nekotan                             | 11    |
-| 18   | DemiHuman / Sylvar                              | 10    |
-| 19   | hydes                                           | 9     |
-| 20   | KH / LaCroiX / Meakes / NTRX                    | 8     |
-| 21   | Drag / IK / Kametsu / NOGRP & Others            | 7     |
-| 22   | B00BA / Bunny-Apocalypse / CTR / JySzE & Others | 6     |
-| 23   | DeeVeeDee / Doc / Holomux / Ignore & Others     | 5     |
-| 24   | AnoZu / Arg0 / Chika / CiNEPHiLES & Others      | 4     |
-| 25   | Aergia / EJF / FateSucks / Kitsune & Others     | 3     |
+| 18   | DemiHuman / Sylvar / hydes                      | 10    |
+| 19   | KH / LaCroiX / Meakes / NTRX                    | 8     |
+| 20   | Drag / IK / Kametsu / NOGRP & Others            | 7     |
+| 21   | B00BA / Bunny-Apocalypse / CTR / JySzE & Others | 6     |
+| 22   | DeeVeeDee / Doc / Holomux / Ignore & Others     | 5     |
+| 23   | AnoZu / Arg0 / Chika / CiNEPHiLES & Others      | 4     |
+| 24   | Aergia / EJF / FateSucks / Kitsune & Others     | 3     |
+| 25   | 12GaugeShotgun / A&C / ABdex / ASC & Others     | 2     |
 
 ## Top 25 - Best entries
 
@@ -104,12 +104,12 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 
 | Rank | Group                                          | Count |
 | :----| :----------------------------------------------| :-----|
-| 🥇   | Headpatter                                     | 120   |
+| 🥇   | Headpatter                                     | 121   |
 | 🥈   | YURASUKA                                       | 66    |
 | 🥉   | SubsPlease                                     | 59    |
 | 4    | Erai-raws                                      | 56    |
-| 5    | KH                                             | 48    |
-| 6    | hchcsen                                        | 46    |
+| 5    | hchcsen                                        | 50    |
+| 6    | KH                                             | 48    |
 | 7    | Drag                                           | 44    |
 | 8    | YURI                                           | 42    |
 | 9    | -ZR- / Commie                                  | 35    |

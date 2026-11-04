@@ -61,12 +61,12 @@ This list excludes groups that do not want their releases mirrored to public tra
 | 54  | TIGER & BUNNY 2                                                                            | 2022 | 11 Sep 2026 | [SeaDex](https://seadex.moe/117197/), [AniList](https://anilist.co/anime/117197) |
 | 55  | The Royal Tutor Movie                                                                      | 2019 | 15 Sep 2026 | [SeaDex](https://seadex.moe/104286/), [AniList](https://anilist.co/anime/104286) |
 | 56  | Gundam Build Divers Re:RISE                                                                | 2019 | 27 Oct 2026 | [SeaDex](https://seadex.moe/110786/), [AniList](https://anilist.co/anime/110786) |
-| 57  | Corrector Yui                                                                              | 1999 | 02 Nov 2026 | [SeaDex](https://seadex.moe/111/), [AniList](https://anilist.co/anime/111)       |
-| 58  | Suna no Bara: Yuki no Mokushiroku                                                          | 1993 | 13 Aug 2026 | [SeaDex](https://seadex.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
-| 59  | Gundam Build Divers Re:RISE 2nd Season                                                     | 2020 | 27 Oct 2026 | [SeaDex](https://seadex.moe/114233/), [AniList](https://anilist.co/anime/114233) |
+| 57  | Suna no Bara: Yuki no Mokushiroku                                                          | 1993 | 13 Aug 2026 | [SeaDex](https://seadex.moe/3989/), [AniList](https://anilist.co/anime/3989)     |
+| 58  | Gundam Build Divers Re:RISE 2nd Season                                                     | 2020 | 27 Oct 2026 | [SeaDex](https://seadex.moe/114233/), [AniList](https://anilist.co/anime/114233) |
+| 59  | BIRTH                                                                                      | 1984 | 04 Nov 2026 | [SeaDex](https://seadex.moe/2607/), [AniList](https://anilist.co/anime/2607)     |
 | 60  | TIGER & BUNNY 2 Part 2                                                                     | 2022 | 11 Sep 2026 | [SeaDex](https://seadex.moe/151803/), [AniList](https://anilist.co/anime/151803) |
 | 61  | Kusunoki no Bannin                                                                         | 2026 | 11 Sep 2026 | [SeaDex](https://seadex.moe/189956/), [AniList](https://anilist.co/anime/189956) |
 | 62  | Gundam Build Divers Prologue                                                               | 2018 | 26 Oct 2026 | [SeaDex](https://seadex.moe/102622/), [AniList](https://anilist.co/anime/102622) |
 | 63  | LUPIN THE 3rd vs. CAT’S EYE                                                                | 2023 | 13 Sep 2026 | [SeaDex](https://seadex.moe/154924/), [AniList](https://anilist.co/anime/154924) |
 | 64  | Combattler V                                                                               | 1976 | 16 Aug 2026 | [SeaDex](https://seadex.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
-| 65  | Corrector Yui Season 2                                                                     | 2000 | 02 Nov 2026 | [SeaDex](https://seadex.moe/146664/), [AniList](https://anilist.co/anime/146664) |
+| 65  | Densetsu no Yuusha Da-Garn                                                                 | 1992 | 04 Nov 2026 | [SeaDex](https://seadex.moe/2803/), [AniList](https://anilist.co/anime/2803)     |

@@ -40,5 +40,6 @@
 | 37  | Mazinger Z                                                                       | 1972 | 24 Oct 2026 | [SeaDex](https://seadex.moe/2253/), [AniList](https://anilist.co/anime/2253)     |
 | 38  | MEGANEBU!                                                                        | 2013 | 05 Aug 2026 | [SeaDex](https://seadex.moe/19257/), [AniList](https://anilist.co/anime/19257)   |
 | 39  | Overlord: Ple Ple Pleiades 4                                                     | 2022 | 29 Dec 2023 | [SeaDex](https://seadex.moe/151898/), [AniList](https://anilist.co/anime/151898) |
-| 40  | Combattler V                                                                     | 1976 | 16 Aug 2026 | [SeaDex](https://seadex.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
-| 41  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://seadex.moe/3059/), [AniList](https://anilist.co/anime/3059)     |
+| 40  | BIRTH                                                                            | 1984 | 04 Nov 2026 | [SeaDex](https://seadex.moe/2607/), [AniList](https://anilist.co/anime/2607)     |
+| 41  | Combattler V                                                                     | 1976 | 16 Aug 2026 | [SeaDex](https://seadex.moe/1068/), [AniList](https://anilist.co/anime/1068)     |
+| 42  | Ninja Robots Tobikage                                                            | 1985 | 15 Jul 2026 | [SeaDex](https://seadex.moe/3059/), [AniList](https://anilist.co/anime/3059)     |

@@ -99,8 +99,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 92  | Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!                        | 2024 | 01 Aug 2026 | [SeaDex](https://seadex.moe/167087/), [AniList](https://anilist.co/anime/167087) |
 | 93  | SHY                                                                                    | 2023 | 20 Oct 2026 | [SeaDex](https://seadex.moe/155389/), [AniList](https://anilist.co/anime/155389) |
 | 94  | Ghost Hound                                                                            | 2007 | 18 Oct 2026 | [SeaDex](https://seadex.moe/2596/), [AniList](https://anilist.co/anime/2596)     |
-| 95  | NANBAKA - Part Two                                                                     | 2017 | 06 Jul 2025 | [SeaDex](https://seadex.moe/97875/), [AniList](https://anilist.co/anime/97875)   |
-| 96  | Revenger                                                                               | 2023 | 01 Jul 2026 | [SeaDex](https://seadex.moe/155202/), [AniList](https://anilist.co/anime/155202) |
+| 95  | Revenger                                                                               | 2023 | 01 Jul 2026 | [SeaDex](https://seadex.moe/155202/), [AniList](https://anilist.co/anime/155202) |
+| 96  | NANBAKA - Part Two                                                                     | 2017 | 06 Jul 2025 | [SeaDex](https://seadex.moe/97875/), [AniList](https://anilist.co/anime/97875)   |
 | 97  | A.I.C.O. -Incarnation-                                                                 | 2018 | 18 Feb 2026 | [SeaDex](https://seadex.moe/99725/), [AniList](https://anilist.co/anime/99725)   |
 | 98  | Your lie in April: Moments                                                             | 2015 | 13 Nov 2023 | [SeaDex](https://seadex.moe/21039/), [AniList](https://anilist.co/anime/21039)   |
 | 99  | Wave, Listen to Me!                                                                    | 2020 | 01 Aug 2025 | [SeaDex](https://seadex.moe/112353/), [AniList](https://anilist.co/anime/112353) |
@@ -123,8 +123,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 116 | Wanna be the Strongest in the World!                                                   | 2013 | 26 Oct 2024 | [SeaDex](https://seadex.moe/11763/), [AniList](https://anilist.co/anime/11763)   |
 | 117 | Future Boy Conan                                                                       | 1978 | 16 May 2025 | [SeaDex](https://seadex.moe/302/), [AniList](https://anilist.co/anime/302)       |
 | 118 | Lord El-Melloi II’s Case Files {Rail Zeppelin} Grace note -Special Episode-            | 2021 | 16 May 2026 | [SeaDex](https://seadex.moe/136344/), [AniList](https://anilist.co/anime/136344) |
-| 119 | Nobunagun                                                                              | 2014 | 07 Jun 2025 | [SeaDex](https://seadex.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
-| 120 | given The Movie: To the Sea                                                            | 2024 | 24 Aug 2026 | [SeaDex](https://seadex.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 119 | given The Movie: To the Sea                                                            | 2024 | 24 Aug 2026 | [SeaDex](https://seadex.moe/175199/), [AniList](https://anilist.co/anime/175199) |
+| 120 | Nobunagun                                                                              | 2014 | 07 Jun 2025 | [SeaDex](https://seadex.moe/19855/), [AniList](https://anilist.co/anime/19855)   |
 | 121 | Birdy the Mighty: Decode 02                                                            | 2009 | 10 Sep 2026 | [SeaDex](https://seadex.moe/5074/), [AniList](https://anilist.co/anime/5074)     |
 | 122 | TAMAYOMI: The Baseball Girls                                                           | 2020 | 01 Jun 2026 | [SeaDex](https://seadex.moe/110130/), [AniList](https://anilist.co/anime/110130) |
 | 123 | URAHARA                                                                                | 2017 | 02 Aug 2025 | [SeaDex](https://seadex.moe/98513/), [AniList](https://anilist.co/anime/98513)   |
