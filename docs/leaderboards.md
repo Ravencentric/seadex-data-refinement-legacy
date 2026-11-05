@@ -24,7 +24,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 8    | Moxie                  | 107   |
 | 9    | MTBB                   | 106   |
 | 10   | SubsPlease / YURI      | 68    |
-| 11   | Erai-raws              | 66    |
+| 11   | Erai-raws              | 65    |
 | 12   | Drag                   | 59    |
 | 13   | KH / smol              | 56    |
 | 14   | GetItTwisted           | 52    |
@@ -117,8 +117,8 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 11   | GetItTwisted                                   | 32    |
 | 12   | LostYears / MTBB                               | 30    |
 | 13   | Bunny-Apocalypse / Holomux                     | 25    |
-| 14   | VARYG                                          | 24    |
-| 15   | Arid / Chihiro                                 | 23    |
+| 14   | Chihiro / VARYG                                | 24    |
+| 15   | Arid                                           | 23    |
 | 16   | Kitsune                                        | 21    |
 | 17   | CTR / Kametsu                                  | 20    |
 | 18   | Pog42 / SCY                                    | 16    |

@@ -11,7 +11,7 @@ All of this and more means that we need to settle on a method to calculate these
 - Total size: `157.8 TiB`
 - Best size: `119.8 TiB`
 - Alt size: `38.1 TiB`
-- Realistic size: `123.5 TiB`
+- Realistic size: `123.6 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -43,14 +43,14 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 21   | LazyRemux        | 1.3 TiB    | 1.3 TiB (100.00%)   | 19 (~68.9 GiB each)   |
 | 22   | SubsPlease       | 1.1 TiB    | 144.0 GiB (12.29%)  | 68 (~17.2 GiB each)   |
 | 23   | Mehul            | 1.1 TiB    | 1.0 TiB (94.74%)    | 29 (~38.9 GiB each)   |
-| 24   | Erai-raws        | 1.1 TiB    | 136.9 GiB (12.30%)  | 66 (~16.9 GiB each)   |
-| 25   | FLE              | 1.1 TiB    | 1.0 TiB (93.83%)    | 29 (~38.3 GiB each)   |
+| 24   | FLE              | 1.1 TiB    | 1.0 TiB (93.83%)    | 29 (~38.3 GiB each)   |
+| 25   | Erai-raws        | 1.1 TiB    | 120.5 GiB (10.98%)  | 65 (~16.9 GiB each)   |
 | 26   | smol             | 991.2 GiB  | 941.7 GiB (95.01%)  | 56 (~17.7 GiB each)   |
 | 27   | Kawatare         | 971.6 GiB  | 853.1 GiB (87.80%)  | 32 (~30.4 GiB each)   |
 | 28   | FraMeSToR        | 968.7 GiB  | 831.7 GiB (85.86%)  | 13 (~74.5 GiB each)   |
 | 29   | Okay-Subs        | 957.0 GiB  | 884.1 GiB (92.38%)  | 46 (~20.8 GiB each)   |
-| 30   | ZeroBuild        | 938.7 GiB  | 889.7 GiB (94.79%)  | 22 (~42.7 GiB each)   |
-| 31   | KH               | 929.8 GiB  | 116.7 GiB (12.55%)  | 58 (~16.0 GiB each)   |
+| 30   | KH               | 929.8 GiB  | 116.7 GiB (12.55%)  | 58 (~16.0 GiB each)   |
+| 31   | ZeroBuild        | 920.7 GiB  | 889.7 GiB (96.63%)  | 21 (~43.8 GiB each)   |
 | 32   | koala            | 920.5 GiB  | 920.5 GiB (100.00%) | 18 (~51.1 GiB each)   |
 | 33   | Holomux          | 905.9 GiB  | 193.5 GiB (21.36%)  | 35 (~25.9 GiB each)   |
 | 34   | LYS1TH3A         | 855.0 GiB  | 824.7 GiB (96.45%)  | 35 (~24.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | uba              | 598.6 GiB  | 598.6 GiB (100.00%) | 11 (~54.4 GiB each)   |
 | 48   | CTR              | 589.2 GiB  | 138.6 GiB (23.52%)  | 26 (~22.7 GiB each)   |
 | 49   | SEV              | 585.9 GiB  | 0 B (0.00%)         | 13 (~45.1 GiB each)   |
-| 50   | Others           | 50.4 TiB   | 27.7 TiB (54.99%)   | 2131 (~24.2 GiB each) |
+| 50   | Others           | 50.5 TiB   | 27.8 TiB (54.96%)   | 2134 (~24.2 GiB each) |
