@@ -1,4 +1,5 @@
 SeaDex Data Refinement
 ======================
 
-Deployed at <https://ravencentric.github.io/seadex-data-refinement/>
+> [!NOTE]
+> A rewrite lives over at https://github.com/Ravencentric/seadex-data-refinement
