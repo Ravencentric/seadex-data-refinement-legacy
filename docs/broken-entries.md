@@ -22,8 +22,8 @@ An entry appears here if at least one of its releases is marked as broken.
 | 15  | My Hero Academia FINAL SEASON                                                          | 2025 | 25 Sep 2026 | [SeaDex](https://seadex.moe/182896/), [AniList](https://anilist.co/anime/182896) |
 | 16  | Re:CREATORS                                                                            | 2017 | 01 Oct 2026 | [SeaDex](https://seadex.moe/97980/), [AniList](https://anilist.co/anime/97980)   |
 | 17  | Record of Ragnarok                                                                     | 2021 | 16 Sep 2025 | [SeaDex](https://seadex.moe/127399/), [AniList](https://anilist.co/anime/127399) |
-| 18  | Shiki                                                                                  | 2010 | 26 Oct 2026 | [SeaDex](https://seadex.moe/7724/), [AniList](https://anilist.co/anime/7724)     |
-| 19  | The Wrong Way to Use Healing Magic                                                     | 2024 | 05 Nov 2026 | [SeaDex](https://seadex.moe/137908/), [AniList](https://anilist.co/anime/137908) |
+| 18  | The Wrong Way to Use Healing Magic                                                     | 2024 | 05 Nov 2026 | [SeaDex](https://seadex.moe/137908/), [AniList](https://anilist.co/anime/137908) |
+| 19  | Shiki                                                                                  | 2010 | 26 Oct 2026 | [SeaDex](https://seadex.moe/7724/), [AniList](https://anilist.co/anime/7724)     |
 | 20  | How NOT to Summon a Demon Lord Ω                                                       | 2021 | 15 Oct 2026 | [SeaDex](https://seadex.moe/117448/), [AniList](https://anilist.co/anime/117448) |
 | 21  | Evangelion: 3.0+1.0 Thrice Upon a Time                                                 | 2021 | 30 Jan 2026 | [SeaDex](https://seadex.moe/3786/), [AniList](https://anilist.co/anime/3786)     |
 | 22  | SHIROBAKO                                                                              | 2014 | 01 Aug 2025 | [SeaDex](https://seadex.moe/20812/), [AniList](https://anilist.co/anime/20812)   |

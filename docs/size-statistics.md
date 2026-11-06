@@ -8,10 +8,10 @@ All of this and more means that we need to settle on a method to calculate these
 
 ## Overview
 
-- Total size: `157.8 TiB`
+- Total size: `158.0 TiB`
 - Best size: `119.8 TiB`
 - Alt size: `38.1 TiB`
-- Realistic size: `123.6 TiB`
+- Realistic size: `123.7 TiB`
 
 The `Realistic size` stat tries to emulate a scenario where a user will likely download the best dual audio release for an entry, falling back to the best single audio release if that's not present, and again falling back to whatever is available if neither exists.
 
@@ -32,7 +32,7 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 10   | B00BA            | 3.0 TiB    | 3.0 TiB (100.00%)   | 34 (~90.2 GiB each)   |
 | 11   | GetItTwisted     | 2.3 TiB    | 1.8 TiB (78.34%)    | 72 (~32.1 GiB each)   |
 | 12   | SoM              | 1.8 TiB    | 1.8 TiB (100.00%)   | 3 (~619.5 GiB each)   |
-| 13   | NOGRP            | 1.7 TiB    | 1.1 TiB (62.41%)    | 46 (~38.2 GiB each)   |
+| 13   | NOGRP            | 1.7 TiB    | 1.1 TiB (62.03%)    | 47 (~37.6 GiB each)   |
 | 14   | MTBB             | 1.6 TiB    | 1.3 TiB (84.09%)    | 106 (~15.1 GiB each)  |
 | 15   | Sylvar           | 1.6 TiB    | 1.5 TiB (93.55%)    | 21 (~76.2 GiB each)   |
 | 16   | A&C              | 1.4 TiB    | 1.4 TiB (98.14%)    | 5 (~285.4 GiB each)   |
@@ -69,4 +69,4 @@ The `Realistic size` stat tries to emulate a scenario where a user will likely d
 | 47   | uba              | 598.6 GiB  | 598.6 GiB (100.00%) | 11 (~54.4 GiB each)   |
 | 48   | CTR              | 589.2 GiB  | 138.6 GiB (23.52%)  | 26 (~22.7 GiB each)   |
 | 49   | SEV              | 585.9 GiB  | 0 B (0.00%)         | 13 (~45.1 GiB each)   |
-| 50   | Others           | 50.5 TiB   | 27.8 TiB (54.96%)   | 2134 (~24.2 GiB each) |
+| 50   | Others           | 50.6 TiB   | 27.8 TiB (55.02%)   | 2139 (~24.2 GiB each) |

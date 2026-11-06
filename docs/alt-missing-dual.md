@@ -49,8 +49,8 @@ An entry appears here if its designated 'alt' version lacks dual audio, but at l
 | 42  | Sword Art Online the Movie -Progressive- Aria of a Starless Night                      | 2021 | 30 Jan 2024 | [SeaDex](https://seadex.moe/124140/), [AniList](https://anilist.co/anime/124140) |
 | 43  | IRODUKU: The World in Colors                                                           | 2018 | 19 Aug 2025 | [SeaDex](https://seadex.moe/101316/), [AniList](https://anilist.co/anime/101316) |
 | 44  | Somali and the Forest Spirit                                                           | 2020 | 09 Jul 2025 | [SeaDex](https://seadex.moe/108617/), [AniList](https://anilist.co/anime/108617) |
-| 45  | Spice and Wolf II                                                                      | 2009 | 01 Aug 2025 | [SeaDex](https://seadex.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
-| 46  | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | 2024 | 01 Aug 2025 | [SeaDex](https://seadex.moe/173694/), [AniList](https://anilist.co/anime/173694) |
+| 45  | Failure Frame: I Became the Strongest and Annihilated Everything with Low-Level Spells | 2024 | 01 Aug 2025 | [SeaDex](https://seadex.moe/173694/), [AniList](https://anilist.co/anime/173694) |
+| 46  | Spice and Wolf II                                                                      | 2009 | 01 Aug 2025 | [SeaDex](https://seadex.moe/5341/), [AniList](https://anilist.co/anime/5341)     |
 | 47  | Given The Movie                                                                        | 2020 | 20 Jun 2025 | [SeaDex](https://seadex.moe/111734/), [AniList](https://anilist.co/anime/111734) |
 | 48  | Love Tyrant                                                                            | 2017 | 15 Nov 2025 | [SeaDex](https://seadex.moe/21517/), [AniList](https://anilist.co/anime/21517)   |
 | 49  | Clevatess                                                                              | 2025 | 05 Feb 2026 | [SeaDex](https://seadex.moe/178869/), [AniList](https://anilist.co/anime/178869) |

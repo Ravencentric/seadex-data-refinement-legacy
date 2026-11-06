@@ -28,17 +28,17 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 12   | Drag                   | 59    |
 | 13   | KH / smol              | 56    |
 | 14   | GetItTwisted           | 52    |
-| 15   | NOGRP / Okay-Subs      | 46    |
-| 16   | LostYears / PMR / TTGA | 41    |
-| 17   | Arid                   | 40    |
-| 18   | Commie / LYS1TH3A      | 35    |
-| 19   | B00BA / Holomux        | 34    |
-| 20   | Lulu                   | 33    |
-| 21   | Kawatare               | 32    |
-| 22   | Bunny-Apocalypse       | 31    |
-| 23   | FLE / Orphan / nekotan | 29    |
-| 24   | Kametsu                | 28    |
-| 25   | Mehul                  | 27    |
+| 15   | NOGRP                  | 47    |
+| 16   | Okay-Subs              | 46    |
+| 17   | LostYears / PMR / TTGA | 41    |
+| 18   | Arid                   | 40    |
+| 19   | Commie / LYS1TH3A      | 35    |
+| 20   | B00BA / Holomux        | 34    |
+| 21   | Lulu                   | 33    |
+| 22   | Kawatare               | 32    |
+| 23   | Bunny-Apocalypse       | 31    |
+| 24   | FLE / Orphan / nekotan | 29    |
+| 25   | Kametsu                | 28    |
 
 ## Top 25 - Best dual audio entries
 
@@ -113,7 +113,7 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 7    | Drag                                           | 44    |
 | 8    | YURI                                           | 42    |
 | 9    | -ZR- / Commie                                  | 35    |
-| 10   | NOGRP                                          | 33    |
+| 10   | NOGRP                                          | 34    |
 | 11   | GetItTwisted                                   | 32    |
 | 12   | LostYears / MTBB                               | 30    |
 | 13   | Bunny-Apocalypse / Holomux                     | 25    |
@@ -122,10 +122,10 @@ This leaderboard is just for fun! Please don't take these rankings too seriously
 | 16   | Kitsune                                        | 21    |
 | 17   | CTR / Kametsu                                  | 20    |
 | 18   | Pog42 / SCY                                    | 16    |
-| 19   | nekotan                                        | 15    |
-| 20   | HorribleSubs                                   | 14    |
-| 21   | CBT / Lulu / SEV / WBDP                        | 13    |
-| 22   | Datte13 / UDF / o7                             | 12    |
-| 23   | FFF / Mysteria / Netaro / Pookie / TROLLORANGE | 11    |
-| 24   | CyC / NH / Tsundere                            | 10    |
-| 25   | Yoghurt / sam                                  | 9     |
+| 19   | HorribleSubs / nekotan                         | 15    |
+| 20   | CBT / Lulu / SEV / WBDP                        | 13    |
+| 21   | Datte13 / UDF / o7                             | 12    |
+| 22   | FFF / Mysteria / Netaro / Pookie / TROLLORANGE | 11    |
+| 23   | CyC / NH / Tsundere                            | 10    |
+| 24   | Yoghurt / sam                                  | 9     |
+| 25   | Asakura / GSK_kun / Hark0n / RASETSU & Others  | 8     |
